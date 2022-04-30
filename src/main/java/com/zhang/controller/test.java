@@ -9,5 +9,8 @@ public class test {
         System.out.println("我爱github6");
         System.out.println("我爱github7");
         System.out.println("我爱github5");
+        System.out.println("我爱github5");
+
+
     }
 }
